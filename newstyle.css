@@ -1,0 +1,108 @@
+body{
+    background-image:url("abg.jpg") ;
+    background-color: slateblue;
+    }
+    .ab{
+    font-family:serif;    
+    margin-top: 10px ;
+    margin-left: 650px;
+    width: 33%;
+    font-size:small;
+    color: rgb(6, 0, 0);
+    font-size:25px;
+    
+    }
+    .ac{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: normal;
+    margin: 50px 50px ;
+    margin-left:550px;
+    font-size: 30px;
+    color: rgb(202, 13, 13);
+    
+    
+    }
+    .an{ font-style: inherit;
+    padding: 30px;
+    margin: 50px 40px ;
+    margin-left: 60px;
+    width: 400px;
+    
+    position: absolute;
+    color: aliceblue;
+    
+    }
+    .an p{
+    font-size: 27px;
+    }
+    .an h3{
+    font-size: 40px;
+    color: red;
+    }
+    .as{
+    font-style: inherit;
+    padding: 30px;
+    width: 400px;
+    margin: 60px 550px ;
+    position: absolute;
+    }
+    .as h3{
+    font-size: 40px;
+    color: red;
+    }
+    .as p{
+    font-size: 27px;
+    color: white;
+    }
+    .ak{ font-style: inherit;
+    
+    padding: 30px;
+    margin: 60px 1000px ;
+    position: absolute;
+    width: 450px;
+    }
+    .ak h3{
+    font-size: 40px;
+    color: red;
+    }
+    .ak p{
+    font-size: 27px;
+    color: white;
+    }
+    .bttn{
+    margin-top: 450px;
+    margin-left: 700px;
+    }
+    .bttn :hover{
+    background-color: red;
+    }
+    .ank{
+    color: whitesmoke;
+    font-size: 12px;
+    }
+    .btn {
+    background: #E51027;
+    background-image: -webkit-linear-gradient(top, #E51027, #E51027);
+    background-image: -moz-linear-gradient(top, #E51027, #E51027);
+    background-image: -ms-linear-gradient(top, #E51027, #E51027);
+    background-image: -o-linear-gradient(top, #E51027, #E51027);
+    background-image: linear-gradient(to bottom, #E51027, #E51027);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    }
+    
+    .btn:hover {
+    background: #E51027;
+    background-image: -webkit-linear-gradient(top, #E51027, #888e91);
+    background-image: -moz-linear-gradient(top, #E51027, #888e91);
+    background-image: -ms-linear-gradient(top, #E51027, #888e91);
+    background-image: -o-linear-gradient(top, #E51027, #888e91);
+    background-image: linear-gradient(to bottom, #E51027, #888e91);
+    text-decoration: none;
+    }
